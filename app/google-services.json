@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715118560214",
+    "firebase_url": "https://infobytelogin-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "infobytelogin",
+    "storage_bucket": "infobytelogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715118560214:android:d817650006256f23441a77",
+        "android_client_info": {
+          "package_name": "com.example.infobytelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715118560214-up6eq6vc50u5jl20n0cmpg0c39vrlkng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infobytelogin",
+            "certificate_hash": "7d97c83638f8ba9895388061ec58183ea5b75efe"
+          }
+        },
+        {
+          "client_id": "715118560214-t4eklok13g6kh9k7edhhlf8n6nefqnjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnhvXQOgLR-KbjcweZCvUJeb6cnaV0lO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715118560214-t4eklok13g6kh9k7edhhlf8n6nefqnjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
