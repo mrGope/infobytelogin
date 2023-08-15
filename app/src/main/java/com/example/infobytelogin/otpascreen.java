@@ -44,8 +44,10 @@ public class otpascreen  extends AppCompatActivity{
         subotp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+           if(otp.getText().toString().isEmpty()==false)
         verifyCode(otp.getText().toString());
+           else
+               Toast.makeText(otpascreen.this, "Enter OTP Please", Toast.LENGTH_SHORT).show();
 
             }
         });
